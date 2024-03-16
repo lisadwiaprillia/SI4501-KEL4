@@ -8,4 +8,8 @@ NAMA ANGGOTA KELOMPOK :
 - Josia Fortino Pakpahan
 
 
+<<<<<<< HEAD
 CASE 3 KELARRRR
+=======
+kelompok 4 RPL
+>>>>>>> 147e3791aa834f3717ee2643aed2a469b9f83bbd
