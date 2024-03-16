@@ -6,10 +6,6 @@ NAMA ANGGOTA KELOMPOK :
 - Vincentius Gaizka Cannavaro
 - Muhammad Nafi' Fathurrohman Sulistiono
 - Josia Fortino Pakpahan
-
-
-<<<<<<< HEAD
-CASE 3 KELARRRR
-=======
 kelompok 4 RPL
->>>>>>> 147e3791aa834f3717ee2643aed2a469b9f83bbd
+Kelompok 4 semoga bisa kelar rpl dengan nilai memuaskan
+
