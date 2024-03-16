@@ -20,6 +20,7 @@ I'm addicted 끊임없이
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 노이즈같이 보여
 =======
@@ -34,3 +35,12 @@ Ooh, woah, woah (Hey)
 더 이상 못 찾겠어
 
 >>>>>>> 7f93ba9 (commit gaya bebas)
+=======
+
+넌 언젠가부터 synk out
+노이즈같이 보여
+더 이상 못 찾겠어
+
+
+Ooh, woah, woah (Hey)
+>>>>>>> 5b994c6 (Commit Nafi Handy Manny)
