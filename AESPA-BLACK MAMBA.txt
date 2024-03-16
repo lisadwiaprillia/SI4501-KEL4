@@ -19,6 +19,7 @@ I'm addicted 끊임없이
 내 모든 action 어린 너의 힘을 키워
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 노이즈같이 보여
 =======
@@ -28,3 +29,8 @@ Ooh, woah, woah (Hey)
 
 넌 언젠가부터 synk out
 >>>>>>> eb8e680 (commit barengan)
+=======
+
+더 이상 못 찾겠어
+
+>>>>>>> 7f93ba9 (commit gaya bebas)
